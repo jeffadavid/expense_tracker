@@ -16,4 +16,4 @@ function ExpenseDate( {date} ) {
   )
 }
 
-export default ExpenseDate
+export default ExpenseDate;
