@@ -20,7 +20,7 @@ const NewExpense = (props) => {
     };
 
     const stopEditingHandler = () => {
-      isEditing(false);
+      setIsEditing(false);
     };
 
   return (
